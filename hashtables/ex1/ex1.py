@@ -10,8 +10,6 @@
 # if targetWeight is in the dictionary, we've found our match 
 
 
-
-
 def get_indices_of_item_weights(weights, length, limit):
     d = {}
     # Your code here
